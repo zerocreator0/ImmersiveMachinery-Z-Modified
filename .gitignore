@@ -1,0 +1,47 @@
+# eclipse
+bin
+*.launch
+.settings
+.metadata
+.classpath
+.project
+
+# idea
+out
+*.ipr
+*.iws
+*.iml
+.idea
+
+# gradle
+build
+.gradle
+
+# other
+eclipse
+run
+backup
+【兼容修复】KltytonToXhcRepair-2.0.0
+
+# Files from Forge MDK
+forge*changelog.txt
+/src/main/original-java
+/mapppings
+/mcmodsrepo
+/local.properties
+
+# Files from architectury
+.architectury-transformer
+/logs
+/.vscode
+
+*.kra
+*.kra~
+*.blend1
+*.mtl
+*.png~
+*.aup3
+.xdp-*
+*.kate-swp
+
+/page/

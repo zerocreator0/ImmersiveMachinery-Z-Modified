@@ -1,0 +1,38 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "BGB",
+    "GCP",
+    "BEB"
+  ],
+  "key": {
+    "P": [
+      {
+        "item": "immersive_aircraft:propeller"
+      }
+    ],
+    "B": [
+      {
+        "item": "minecraft:copper_ingot"
+      }
+    ],
+    "G": [
+      {
+        "item": "minecraft:glass"
+      }
+    ],
+    "C": [
+      {
+        "item": "minecraft:conduit"
+      }
+    ],
+    "E": [
+      {
+        "item": "immersive_aircraft:engine"
+      }
+    ]
+  },
+  "result": {
+    "item": "immersive_machinery:copperfin"
+  }
+}

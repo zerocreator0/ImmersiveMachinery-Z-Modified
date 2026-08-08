@@ -1,0 +1,15 @@
+{
+  "properties": {
+    "engineSpeed": 0.1
+  },
+  "inventorySlots": [
+    {"type": "boiler", "x": 25, "y": 44},
+    {"type": "inventory", "x": 60, "y": 20, "cols": 5, "rows": 3}
+  ],
+  "weaponMounts": [
+  ],
+  "passengerPositions": [
+  ],
+  "boundingBoxes": [
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "required": true,
+  "minVersion": "0.7",
+  "package": "immersive_machinery.mixin",
+  "compatibilityLevel": "JAVA_16",
+  "mixins": [
+    "client.EntityMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  },
+  "client": [
+    "client.LocalPlayerMixin"
+  ]
+}
