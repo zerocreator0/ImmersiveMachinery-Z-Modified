@@ -50,6 +50,7 @@ A bunch of rustic machinery to transport, mine, and automate things, while stayi
   ]
 }
 ```
+<img width="1117" height="536" alt="Snipaste_2026-08-31_17-45-04" src="https://github.com/user-attachments/assets/ee8fdb0a-be79-4cca-949b-131e3edb4490" />
 
 ## 构建
 
