@@ -5,8 +5,8 @@ buildscript {
 }
 
 plugins {
-    id "architectury-plugin" version "3.4-SNAPSHOT"
-    id "dev.architectury.loom" version "1.5-SNAPSHOT" apply false
+    id "architectury-plugin" version "3.4.155"
+    id "dev.architectury.loom" version "1.5.391" apply false
 }
 
 architectury {
